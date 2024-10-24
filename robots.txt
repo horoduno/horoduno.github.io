@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://horoduno.github.io/sitemap/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/iNC/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/XmY/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/StH/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/gdZ/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/FDr/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/oUC/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/DCK/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/BtN/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/Pac/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/gnB/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/FEe/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/DEk/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/wmk/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/Uwi/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/gwj/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/HXm/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/boa/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/TxQ/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/tHI/sitemap_index.horoduno
+Sitemap: https://horoduno.github.io/QBf/sitemap_index.horoduno
